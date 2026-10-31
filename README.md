@@ -9,8 +9,8 @@ The objective was to host an open-source web application locally, design a compr
 - **Application Tested:** ERPNext v16.51.1 (Frappe Framework v16)
 - **Deployment:** Docker (`frappe_docker` official compose stack)
 - **Host Machine:** Ubuntu Linux (x86-64), Docker Engine 29.9.1
-- **Report Location:** [`/docs/SE_CA3_Frappe_Web_App_Testing_Report.pdf`](./docs/SE_CA3_Frappe_Web_App_Testing_Report.pdf)
-- **Screenshot Assets:** [`/assets`](./assets) (Figures S01 to S20)
+- **Report Location:** [`/assets/docs/SE_CA3_Frappe_Web_App_Testing_Report.pdf`](./assets/docs/SE_CA3_Frappe_Web_App_Testing_Report.pdf)
+- **Screenshot Assets:** [`/assets/screenshots`](./assets/screenshots) (Figures S01 to S20)
 
 ---
 
