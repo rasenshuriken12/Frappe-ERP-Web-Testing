@@ -7,7 +7,7 @@ This repository contains the assets, documentation, and final report for the Con
 The objective was to host an open-source web application locally, design a comprehensive test plan covering six specific areas, execute **17 test cases**, and document **4 defects** with reproducible evidence. 
 
 - **Application Tested:** ERPNext v16.51.1 (Frappe Framework v16)
-- **Deployment:** Docker (`frappe_docker` official compose stack)
+- **Deployment:** Docker ([`frappe_docker`](https://github.com/frappe/frappe_docker) official compose stack)
 - **Host Machine:** Ubuntu Linux (x86-64), Docker Engine 29.9.1
 - **Report Location:** [`/assets/docs/SE_CA3_Frappe_Web_App_Testing_Report.pdf`](./assets/docs/SE_CA3_Frappe_Web_App_Testing_Report.pdf)
 - **Screenshot Assets:** [`/assets/screenshots`](./assets/screenshots) (Figures S01 to S20)
